@@ -4,7 +4,7 @@ A polished, interactive Streamlit dashboard for exploring sales, profitability, 
 
 ## Included
 - `app.py` — complete Streamlit application
-- `sample_superstore.csv` — transaction dataset (1,800 rows)
+- `sample_superstore.csv` — transaction dataset
 - `requirements.txt` — Python dependencies
 - `README.md` — setup, usage, data dictionary and deployment notes
 
