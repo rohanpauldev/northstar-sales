@@ -4,7 +4,7 @@ A polished, interactive Streamlit dashboard for exploring sales, profitability, 
 
 ## Included
 - `app.py` — complete Streamlit application
-- `sample_superstore.csv` — reproducible synthetic transaction dataset (1,800 rows)
+- `sample_superstore.csv` — transaction dataset (1,800 rows)
 - `requirements.txt` — Python dependencies
 - `README.md` — setup, usage, data dictionary and deployment notes
 
@@ -30,8 +30,6 @@ pip install -r requirements.txt
 # Launch
 streamlit run app.py
 ```
-
-Streamlit will print a local URL, usually http://localhost:8501.
 
 ## 2. Use your own dataset
 
